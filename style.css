@@ -1,0 +1,33 @@
+.inner-banner-image{
+    padding-top: 0.2%;
+    width:80%;
+    margin:auto;
+    padding-bottom:0.1%;
+}
+
+
+.banner_content{
+    margin-top: 5.5%;
+    position: relative;
+    padding-top: 1.5%;
+    padding-bottom: 1%;
+    overflow:hidden;
+    margin-bottom: 1%;
+    background-color: rgba(0, 0, 0, 0);
+    max-width: 800px;
+    border-radius: 10px;
+    font-family:Stencil Std;
+    font-size: 50px;
+    font-weight: bold;
+    background-color:yellow;
+}
+
+
+.banner-image{
+    padding-bottom: 500px;
+    margin-bottom: 0px;
+    text-align: center;
+    background: url(./img/17153898_web1_clouds_newsFP.jpg) no-repeat center;
+    background-size: cover;
+    
+}
